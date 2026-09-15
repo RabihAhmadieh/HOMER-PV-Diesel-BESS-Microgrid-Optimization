@@ -400,7 +400,7 @@ HOMER-PV-Diesel-BESS-Microgrid-Optimization/
 │   └── Remote_Facility_PV_Diesel_BESS.homer
 │
 ├── Report/
-│   ├── Engineering_Report.pdf
+│   ├── HOMER_PV_Diesel_BESS_Engineering_Report.pdf
 │   └── HOMER_Simulation_Report.pdf
 │
 └── Results/
